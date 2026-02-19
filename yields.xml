@@ -1,45 +1,8 @@
-    <table rules="all" border="1" style="font-family: 'Courier New'; font-size: smaller;">
-	    <tr style="background-color:#FFFFC0;">
-		    <th>Rating</th>
-		    <th>Yield</th>
-		    <th>1 Day</th>
-		    <th>1 Wk</th>
-		    <th>1 Mo</th>
-	    </tr>
-	    <tr>
-<td>Overall</td>
-<td>7.61 %</td>
-<td><img border="0" src="Images/DownArrow.jpg" />&nbsp;<font color=Red>-0.05 %</font></td>
-<td><img border="0" src="Images/DownArrow.jpg" />&nbsp;<font color=Red>-0.12 %</font></td>
-<td><img border="0" src="Images/UpArrow.jpg" />&nbsp;<font color=Green>0.55 %</font></td>
-</tr>
-<tr>
-<td>AAA</td>
-<td>6.02 %</td>
-<td><img border="0" src="Images/UpArrow.jpg" />&nbsp;<font color=Green>0.01 %</font></td>
-<td><img border="0" src="Images/DownArrow.jpg" />&nbsp;<font color=Red>-0.19 %</font></td>
-<td><img border="0" src="Images/DownArrow.jpg" />&nbsp;<font color=Red>-0.01 %</font></td>
-</tr>
-<tr>
-<td>AA</td>
-<td>7.17 %</td>
-<td><img border="0" src="Images/DownArrow.jpg" />&nbsp;<font color=Red>-0.01 %</font></td>
-<td><img border="0" src="Images/DownArrow.jpg" />&nbsp;<font color=Red>-0.16 %</font></td>
-<td><img border="0" src="Images/UpArrow.jpg" />&nbsp;<font color=Green>0.52 %</font></td>
-</tr>
-<tr>
-<td>A</td>
-<td>7.66 %</td>
-<td><img border="0" src="Images/DownArrow.jpg" />&nbsp;<font color=Red>-0.05 %</font></td>
-<td><img border="0" src="Images/DownArrow.jpg" />&nbsp;<font color=Red>-0.09 %</font></td>
-<td><img border="0" src="Images/UpArrow.jpg" />&nbsp;<font color=Green>0.63 %</font></td>
-</tr>
-<tr>
-<td>BBB</td>
-<td>8.16 %</td>
-<td><img border="0" src="Images/DownArrow.jpg" />&nbsp;<font color=Red>-0.09 %</font></td>
-<td><img border="0" src="Images/DownArrow.jpg" />&nbsp;<font color=Red>-0.09 %</font></td>
-<td><img border="0" src="Images/UpArrow.jpg" />&nbsp;<font color=Green>0.63 %</font></td>
-</tr>
-    </table>
-    <span style="font-style:italic; font-size: smaller; font-family: Courier New;">QTFIL Preferred Indexes as of: 11/28/2007</span>    
+<?xml version="1.0" encoding="UTF-8"?>
+<yields date="11/28/2007">
+    <rating name="Overall" yield="7.61" day1="-0.05" week1="-0.12" month1="0.55" />
+    <rating name="AAA"     yield="6.02" day1="0.01"  week1="-0.19" month1="-0.01" />
+    <rating name="AA"      yield="7.17" day1="-0.01" week1="-0.16" month1="0.52" />
+    <rating name="A"       yield="7.66" day1="-0.05" week1="-0.09" month1="0.63" />
+    <rating name="BBB"     yield="8.16" day1="-0.09" week1="-0.09" month1="0.63" />
+</yields>

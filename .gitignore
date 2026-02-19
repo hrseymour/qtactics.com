@@ -1,2 +1,6 @@
-Public.suo
-.vs
+.vs/
+*.suo
+*.user
+.DS_Store
+Thumbs.db
+node_modules/

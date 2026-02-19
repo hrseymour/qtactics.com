@@ -14,25 +14,21 @@
         <tr>
             <td valign="top" class="bodybar">
                 <p class="MsoNormal" style="margin: 0in 0in 0pt; text-align: justify;">
-                We develop software to pinpoint <strong>fixed income</strong> and <strong>capital structure arbitrage</strong> opportunities. The <strong>Quantitative Tactics Fixed Income Lab (QTFIL)</strong> maintains
-                    a database of over 10,000 actively traded <strong>preferred stocks</strong> and
-                    <strong>corporate bonds</strong> with a set of standard and proprietary analytics
+                The <strong>Quantitative Tactics Fixed Income Lab (QTFIL)</strong> pinpoints <strong>fixed income</strong> and <strong>capital structure arbitrage</strong> opportunities.
+                     QTFIL maintains
+                    a database of over 30,000 actively traded <strong>preferred stocks</strong> and
+                    <strong>corporate bonds</strong>, and over 5,000 stocks on US and global exchanges,
+                    with a set of standard and proprietary analytics
                     calculated for each instrument.&nbsp; The database can be queried to find value
                     opportunities.</p>
                 <p>
                     QTFIL tracks fixed income portfolios held
                         in brokerage accounts, providing insight into current yields (by credit rating or by&nbsp;sector), 
-                        ranking instruments held by their relative values, allowing portfolios to
+                        ranking instruments held by their relative value, allowing portfolios to
                         be optimized over time for increased returns. &nbsp;The
                     effect of yield curve changes on portfolio value can be simulated to get a view of
                     the resultant risks (or rewards).
                 </p>
-                <p class="MsoNormal" style="margin: 0in 0in 0pt; text-align: justify">
-                    To calculate Equivalent Yield (EY) for a
-                        given instrument, with a given credit rating, QTFIL calculates its own yield indexes for both corporate
-                        bonds and preferred stocks.</p>
-                <p class="MsoNormal" style="margin: 0in 0in 0pt; text-align: justify">
-                    &nbsp;</p>
                 <p class="MsoNormal" style="margin: 0in 0in 0pt; text-align: justify">
                     QTFIL, developed in <strong>C#</strong>, runs as a <strong>Windows service</strong>
                     with an <strong>ASP.NET</strong> web interface, and a <strong>SQL Server</strong> back-end.
@@ -50,9 +46,9 @@
                         for a finance portal / paid subscription service, focusing on fixed income. </li>
                 </ul>
                 <p style="text-align: left">
-                    Please read the <a href="docs/QTFIL Overview.pdf">white paper</a> for a complete
-                    overview of the Fixed Income Lab.&nbsp; Also available: <a href="docs/HarlanSeymour.pdf">
-                        resume of Harlan Seymour</a>, founder of Quantitative Tactics, and developer
+                    Please read the <a href="docs/QTFIL Overview.pdf" target="_blank">white paper</a> for a complete
+                    overview of the Fixed Income Lab.  <a href="https://www.linkedin.com/in/harlanseymour/" target="_blank">Harlan Seymour</a>
+                    is the founder of Quantitative Tactics, and developer
                     of QTFIL.</p>
                 <br />
                 <!--#include file="yields.xml"-->
@@ -63,7 +59,7 @@
                 <table>
                     <tr>
                         <td style="text-align: center">
-                            <asp:Image ID="Image1" runat="server" ImageUrl="images/RSAHeadshot.gif" BorderColor="Navy" BorderStyle="Solid" BorderWidth="2px" /></td>
+                            <asp:Image ID="Image1" runat="server" ImageUrl="images/Headshot.jpg" BorderColor="Navy" BorderStyle="Solid" BorderWidth="2px" /></td>
                     </tr>
                     <tr>
                         <td style="width: 255px">

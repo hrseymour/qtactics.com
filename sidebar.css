@@ -1,0 +1,16 @@
+BODY
+{
+	background-color: #99ccff;
+}
+
+.sidebar
+{
+	font-family: Veranda, Georgia, Arial;
+}
+
+A:link
+{
+	color: blue;
+}A:hover{
+	color: red;
+}

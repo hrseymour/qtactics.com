@@ -1,0 +1,19 @@
+BODY
+{
+	background-image: url(images/redline.gif);
+	background-repeat: repeat-x;
+	margin-top: 5;
+	margin-left: 10;
+	margin-right: 10;
+}.botbar
+{
+	font-family: Veranda, Georgia, Arial;
+	color: #666666;
+	font-size: small;
+}
+A:link
+{
+	color: blue;
+}A:hover{
+	color: red;
+}

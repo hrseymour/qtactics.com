@@ -1,0 +1,7 @@
+BODY{	background-image: url(images/corner.gif);	background-repeat: no-repeat;	background-attachment: fixed;}.bodybar{    font-family: Veranda, Georgia, Arial;}.infobar{    font-family: Veranda, Georgia, Arial;}
+A:link
+{
+	color: blue;
+}A:hover{
+	color: red;
+}
